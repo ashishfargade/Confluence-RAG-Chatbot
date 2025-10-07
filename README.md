@@ -7,6 +7,8 @@
 </p>
 
 # How to use
+- Install and Setup LLM Studio
+    - Download and load a LLM and a embedding model
 
 - Create a virtual environnement:
     - `python3.10 -m venv .venv`
