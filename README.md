@@ -2,10 +2,6 @@
 
 **Help desk** allows you to create a Question Answering bot with a streamlit UI using your company Confluence data.
 
-<p align="center">
-  <img src="./docs/help_desk.gif" alt="animated" />
-</p>
-
 # How to use
 - Install and Setup LLM Studio
     - Download and load a LLM and a embedding model
